@@ -2,5 +2,4 @@ pandas
 streamlit
 seaborn
 matplotlib
-PIL
-io
+pillow
